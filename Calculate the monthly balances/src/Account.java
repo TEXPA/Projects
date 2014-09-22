@@ -26,5 +26,4 @@ public class Account implements Balanceable, Withdrawable, Depositable {
 		// TODO Auto-generated method stub
 		balance = amount;
 	}
-
 }
